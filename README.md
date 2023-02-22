@@ -35,12 +35,13 @@ When either laser beam lands on a King token, that King is removed and the game 
 If you accidentally hit your own King — your opponent wins the game. 
 
 ### CREDITS:
-Made by OSTOLEX, the creators of [Hockey Club Manager](https://www.hockeyclubmanager.com)
-Source code: [Near Social Laser Chess](https://github.com/near-social-laser-chess)
-Kostiantyn Ostapenko — idea, management.
-Oleksiy Pitenko — 3D frontend.
-Yurii Stolbetskyi — game logic.
-Yevhenia Zorina — 3D design.
+Made by OSTOLEX, the creators of [Hockey Club Manager](https://www.hockeyclubmanager.com) <br>
 
-Invented by Luke Hooper at [Think Fun](https://www.thinkfun.com)
-Inspired by [Triple S Games](https://www.youtube.com/@TripleSGames)
+Kostiantyn Ostapenko — idea, management. <br>
+Oleksiy Pitenko — 3D frontend. <br>
+Yurii Stolbetskyi — game logic. <br>
+Yevhenia Zorina — 3D design. <br>
+
+Invented by Luke Hooper at [Think Fun](https://www.thinkfun.com) <br>
+Inspired by [Triple S Games](https://www.youtube.com/@TripleSGames) <br>
+Source code: [Near Social Laser Chess](https://github.com/near-social-laser-chess)
