@@ -27,6 +27,7 @@ c. Rotate Laser to point in the direction of either the first column or the firs
 1. A token may only be moved OR rotated in one turn, not both.
 2. A token may only be rotated 90 degrees at a time. 
 3. SPECIAL MOVE – This move is made only by a Switch token. The Switch may swap places with an adjacent Deflector or Defender of either color. Neither token rotates during the swap. A Switch cannot swap places with a King or another Switch piece.  
+
 ![image_2023-02-22_23-54-32](https://user-images.githubusercontent.com/63261287/220784612-def19a08-8c27-4300-903c-fc198a3e9b51.png)
 
 
