@@ -7,18 +7,18 @@ You can watch a tutorial here: https://youtu.be/UqLa-LOficM
 ### TOKEN GUIDE:
 | Token  | Token description |
 |:-------------:| ------------- |
-|![lazer](https://user-images.githubusercontent.com/63261287/220796754-f024c3ef-4299-437d-a8f0-0356faba9e3e.png)| **Laser:**  <br> Each player has one Laser that remains in the corner of the game Grid throughout the game. Laser automaticly activates at the end of the turn. The Laser is not a playing token and cannot be eliminated from play.  |
-|![deflector](https://user-images.githubusercontent.com/63261287/220794859-986c4599-b6f4-4430-8bda-3a52775bc284.png)| **Deflector:** <br> The mirrored side of the Deflector reflects the laser 90 degrees. A Deflector is eliminated from play when any of its non-mirrored surfaces are hit by the laser.  |
-|![defender](https://user-images.githubusercontent.com/63261287/220796809-20433f68-6b7d-4e46-b851-e803e7e1a483.png)| **Defender:** <br> The front side of a Defender blocks the laser and the Defender will remain in play if hit from the front. However, a Defender can be eliminated from play if the laser strikes either of its sides or its back.  |
-|![switch](https://user-images.githubusercontent.com/63261287/220795854-70d9a5a4-9540-4b6f-ae76-9cc0a1fd047c.png)| **Switch:** <br> Both sides of the Switch reflect the laser 90 degrees. The Switch can also swap places with an adjacent Deflector or Defender. A Switch can never be eliminated from play.  |
-|![king](https://user-images.githubusercontent.com/63261287/220796842-aa9df965-a379-4e8d-8587-db14cba006d1.png)| **King:** <br> The game ends when the laser strikes a King.  |
+|![lazer](https://user-images.githubusercontent.com/63261287/220796754-f024c3ef-4299-437d-a8f0-0356faba9e3e.png)| **Laser:**  Each player has one Laser that remains in the corner of the game Grid throughout the game. Laser automaticly activates at the end of the turn. The Laser is not a playing token and cannot be eliminated from play.  |
+|![deflector](https://user-images.githubusercontent.com/63261287/220794859-986c4599-b6f4-4430-8bda-3a52775bc284.png)| **Deflector:**  The mirrored side of the Deflector reflects the laser 90 degrees. A Deflector is eliminated from play when any of its non-mirrored surfaces are hit by the laser.  |
+|![defender](https://user-images.githubusercontent.com/63261287/220796809-20433f68-6b7d-4e46-b851-e803e7e1a483.png)| **Defender:**  The front side of a Defender blocks the laser and the Defender will remain in play if hit from the front. However, a Defender can be eliminated from play if the laser strikes either of its sides or its back.  |
+|![switch](https://user-images.githubusercontent.com/63261287/220795854-70d9a5a4-9540-4b6f-ae76-9cc0a1fd047c.png)| **Switch:**  Both sides of the Switch reflect the laser 90 degrees. The Switch can also swap places with an adjacent Deflector or Defender. A Switch can never be eliminated from play.  |
+|![king](https://user-images.githubusercontent.com/63261287/220796842-aa9df965-a379-4e8d-8587-db14cba006d1.png)| **King:**  The game ends when the laser strikes a King.  |
 
 ### STEPS TO PLAY:
 1. The yellow player goes first. Players take turns with each player moving only their own tokens. All playing tokens, including Kings, can be moved.
-2. On a turn a player must first take one of the following actions: <br>
-a. Move any one token one space in any direction (including diagonally) following the Movement Rules. <br>
-b. Rotate a token 90 degrees in either direction, pressing one of the Rotate buttons on the side of the board. <br>
-c. Rotate Laser to point in the direction of either the first column or the first row. <br>
+2. On a turn a player must first take one of the following actions:  
+a. Move any one token one space in any direction (including diagonally) following the Movement Rules.  
+b. Rotate a token 90 degrees in either direction, pressing one of the Rotate buttons on the side of the board.  
+c. Rotate Laser to point in the direction of either the first column or the first row.  
 3. Tokens removed from the board based on where the beam lands.
 4. If the laser beam lands on a player’s own token, the token is still eliminated.
 5. Yellow tokens can never move into spaces with red Near logo and red tokens can never move into squares containing yellow Near logo. (Located along the edges of the board.)
@@ -35,13 +35,13 @@ When either laser beam lands on a King token, that King is removed and the game 
 If you accidentally hit your own King — your opponent wins the game. 
 
 ### CREDITS:
-Made by OSTOLEX, the creators of [Hockey Club Manager](https://www.hockeyclubmanager.com) <br>
+Made by OSTOLEX, the creators of [Hockey Club Manager](https://www.hockeyclubmanager.com)  
 
-Kostiantyn Ostapenko — idea, management. <br>
-Oleksiy Pitenko — 3D frontend. <br>
-Yurii Stolbetskyi — game logic. <br>
-Yevhenia Zorina — 3D design. <br>
+Kostiantyn Ostapenko — idea, management.  
+Oleksiy Pitenko — 3D frontend.  
+Yurii Stolbetskyi — game logic.  
+Yevhenia Zorina — 3D design.  
 
-Invented by Luke Hooper at [Think Fun](https://www.thinkfun.com) <br>
-Inspired by [Triple S Games](https://www.youtube.com/@TripleSGames) <br>
+Invented by Luke Hooper at [Think Fun](https://www.thinkfun.com)  
+Inspired by [Triple S Games](https://www.youtube.com/@TripleSGames)  
 Source code: [Near Social Laser Chess](https://github.com/near-social-laser-chess)
