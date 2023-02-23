@@ -7,11 +7,11 @@ You can watch a tutorial here: https://youtu.be/UqLa-LOficM
 ### TOKEN GUIDE:
 | Token  | Token description |
 |:-------------:| ------------- |
-| picture to be upload  | **Laser:**  <br> Each player has one Laser that remains in the corner of the game Grid throughout the game. Laser automaticly activates at the end of the turn. The Laser is not a playing token and cannot be eliminated from play.  |
-| picture to be upload  | **Deflector:** <br> The mirrored side of the Deflector reflects the laser 90 degrees. A Deflector is eliminated from play when any of its non-mirrored surfaces are hit by the laser.  |
-| picture to be upload  | **Defender:** <br> The front side of a Defender blocks the laser and the Defender will remain in play if hit from the front. However, a Defender can be eliminated from play if the laser strikes either of its sides or its back.  |
-| picture to be upload  | **Switch:** <br> Both sides of the Switch reflect the laser 90 degrees. The Switch can also swap places with an adjacent Deflector or Defender. A Switch can never be eliminated from play.  |
-| picture to be upload  | **King:** <br> The game ends when the laser strikes a King.  |
+|![lazer](https://user-images.githubusercontent.com/63261287/220794554-968d09e8-e528-4e2b-b19e-d09bbe82cda6.png)| **Laser:**  <br> Each player has one Laser that remains in the corner of the game Grid throughout the game. Laser automaticly activates at the end of the turn. The Laser is not a playing token and cannot be eliminated from play.  |
+|![deflector](https://user-images.githubusercontent.com/63261287/220794859-986c4599-b6f4-4430-8bda-3a52775bc284.png)| **Deflector:** <br> The mirrored side of the Deflector reflects the laser 90 degrees. A Deflector is eliminated from play when any of its non-mirrored surfaces are hit by the laser.  |
+|![defender](https://user-images.githubusercontent.com/63261287/220795226-db336be1-edee-457c-b1c8-4fd196b6b9b3.png)| **Defender:** <br> The front side of a Defender blocks the laser and the Defender will remain in play if hit from the front. However, a Defender can be eliminated from play if the laser strikes either of its sides or its back.  |
+|![switch](https://user-images.githubusercontent.com/63261287/220795854-70d9a5a4-9540-4b6f-ae76-9cc0a1fd047c.png)| **Switch:** <br> Both sides of the Switch reflect the laser 90 degrees. The Switch can also swap places with an adjacent Deflector or Defender. A Switch can never be eliminated from play.  |
+|![king](https://user-images.githubusercontent.com/63261287/220796004-6f1126d9-1faf-4d3d-80e1-799749edde46.png)| **King:** <br> The game ends when the laser strikes a King.  |
 
 ### STEPS TO PLAY:
 1. The yellow player goes first. Players take turns with each player moving only their own tokens. All playing tokens, including Kings, can be moved.
