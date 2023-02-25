@@ -1,6 +1,6 @@
 # Laser chess rules
 ### INTRODUCTION
- A game of capture has never been this much fun! Laser Chess combines the fun of bending lasers and illuminating pieces with chess-like strategy. You have to strike your opponent’s King while protecting your own from getting zapped! Simple rules and only a few basic moves make Laser Chess easy to learn and quick to play.
+Laser Chess is a strategic board game that uses lasers to capture the opponent's pieces. Laser Chess combines the fun of bending lasers and illuminating pieces with chess-like strategy. You have to strike your opponent’s King while protecting your own from getting zapped! Simple rules and only a few basic moves make Laser Chess easy to learn and quick to play.
 
 You can watch a tutorial here: https://youtu.be/UqLa-LOficM
 
