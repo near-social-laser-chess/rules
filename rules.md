@@ -38,10 +38,10 @@ If you accidentally hit your own King — your opponent wins the game.
 ### CREDITS:
 Made by OSTOLEX, the creators of [Hockey Club Manager](https://www.hockeyclubmanager.com)  
 
-Kostiantyn Ostapenko — idea, management.  
-Oleksiy Pitenko — 3D frontend.  
-Yurii Stolbetskyi — game logic.  
-Yevhenia Zorina — 3D design.  
+Kostiantyn Ostapenko — idea, management, UX design, layout design.  
+Oleksii Pitenko — 3D layout, Web3 development.  
+Yurii Stolbetskyi — game logic, Web3 development.  
+Yevhenia Zorina — 3D design, UI design.  
 
 Invented by Luke Hooper at [Think Fun](https://www.thinkfun.com)  
 Inspired by [Triple S Games](https://www.youtube.com/@TripleSGames)  
