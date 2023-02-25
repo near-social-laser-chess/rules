@@ -2,7 +2,20 @@
 ### INTRODUCTION
 Laser Chess is a strategic board game that uses lasers to capture the opponent's pieces. Laser Chess combines the fun of bending lasers and illuminating pieces with chess-like strategy. You have to strike your opponent’s King while protecting your own from getting zapped! Simple rules and only a few basic moves make Laser Chess easy to learn and quick to play.
 
-You can watch a tutorial here: https://youtu.be/UqLa-LOficM
+You can watch a quick tutorial here: https://youtu.be/UqLa-LOficM
+
+### GAMEPLAY
+The game is played on an 10x8 board. Each player has a laser, which can be used to capture opposing pieces by shooting a beam of light. The goal of the game is to capture the opponent's king piece with a laser.
+
+The pieces in the game are as follows:
+
+- Laser (1 per player)
+- Deflector (6 per player)
+- Defender (2 per player)
+- Switch (2 per player)
+- King (1 per player)
+
+Each piece moves according to its own unique rules.
 
 ### TOKEN GUIDE:
 | Token  | Token description |
